@@ -1,6 +1,0 @@
-check50:
-  checks:
-    hello world:
-      -\ run: python3 degrees.py
-        stdout: Hello, world!
-        exit: 0
